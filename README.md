@@ -15,13 +15,13 @@ I'm building my portfolio, strengthening my technical skills, and looking for **
 
 ## About Me
 
-- 🎓 Systems Engineering student.
-- 📱 Interested in mobile app development with **Flutter and Dart**.
-- 💻 Building programming skills through **Python** projects and coursework.
-- 🗄️ Practicing relational database design and queries with **SQL**.
-- 🤖 Exploring **Machine Learning** and data analysis.
-- 🌱 Learning by building projects, experimenting, and continuously improving.
-- 💼 Open to **internships, junior opportunities, and project collaborations**.
+-  Systems Engineering student.
+-  Interested in mobile app development with **Flutter and Dart**.
+-  Building programming skills through **Python** projects and coursework.
+-  Practicing relational database design and queries with **SQL**.
+-  Exploring **Machine Learning** and data analysis.
+-  Learning by building projects, experimenting, and continuously improving.
+-  Open to **internships, junior opportunities, and project collaborations**.
 
 ## Technologies & Tools
 
@@ -78,11 +78,15 @@ I'm looking to grow as a systems engineer, contribute to real-world projects, an
 
 ## Contact
 
-- **GitHub:** [@camilojunco29](https://github.com/camilojunco29)
-- **LinkedIn:** [Camilo Junco](https://www.linkedin.com/)
-- **Discord:** `its.me.cam`
-- **Instagram:** [@camilo.junc](https://www.instagram.com/camilo.junc/)
-- **Gmail:** Add your Gmail address here.
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-camilojunco29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilojunco29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Junco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Discord](https://img.shields.io/badge/Discord-its.me.cam-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/432615459553017886)
+[![Instagram](https://img.shields.io/badge/Instagram-camilo.junc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilo.junc/)
+[![Gmail](https://img.shields.io/badge/Gmail-camilojunco29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilojunco29@gmail.com)
+
+</div>
 
 ---
 
