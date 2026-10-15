@@ -50,11 +50,6 @@ Practice building mobile interfaces and applications using Dart and Flutter.
 
 **Focus:** UI components, navigation, and application structure.
 
-### Python & Data Analysis
-Learning projects focused on processing data, applying analysis techniques, and presenting results.
-
-**Focus:** programming, data cleaning, and visualization.
-
 ### Machine Learning
 Academic exploration of machine learning concepts, activation functions, and neural networks.
 
