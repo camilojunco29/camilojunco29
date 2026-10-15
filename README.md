@@ -50,11 +50,6 @@ Practice building mobile interfaces and applications using Dart and Flutter.
 
 **Focus:** UI components, navigation, and application structure.
 
-### Classroom Management System
-An academic database project designed to organize information about classrooms, buildings, users, instructors, requests, and issues.
-
-**Focus:** relational data modeling, SQL queries, and relationships between tables.
-
 ### Python & Data Analysis
 Learning projects focused on processing data, applying analysis techniques, and presenting results.
 
