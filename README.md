@@ -79,7 +79,7 @@ Busco seguir desarrollándome como ingeniero de sistemas, participar en proyecto
 ## 📫 Contacto
 
 - **GitHub:** [@camilojunco29](https://github.com/camilojunco29)
-- **LinkedIn:** (https://www.linkedin.com/in/camilo-junco-37023637a/?isSelfProfile=true)
+- **LinkedIn:** [Camilo Junco | Linkedin](https://www.linkedin.com/)
 - **Correo profesional:** Añade aquí el correo que utilizas para oportunidades laborales.
 
 ---
