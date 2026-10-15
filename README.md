@@ -1,11 +1,11 @@
 <div align="center">
 
-# ¡Hola! Soy Camilo Junco 👋
+# Hi, I'm Camilo Junco
 
-### Estudiante de Ingeniería de Sistemas | Desarrollo de software
+### Systems Engineering Student | Software Development
 
-Me interesa crear soluciones tecnológicas que combinen programación, aplicaciones móviles, bases de datos y análisis de datos.  
-Estoy construyendo mi portafolio, fortaleciendo mis habilidades y buscando oportunidades de **prácticas o experiencia profesional**.
+I'm interested in building technology solutions that combine programming, mobile applications, databases, and data analysis.  
+I'm building my portfolio, strengthening my technical skills, and looking for **internship opportunities and entry-level roles**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-camilojunco29-181717?style=for-the-badge&logo=github)](https://github.com/camilojunco29)
 
@@ -13,17 +13,17 @@ Estoy construyendo mi portafolio, fortaleciendo mis habilidades y buscando oport
 
 ---
 
-## 👨‍💻 Sobre mí
+## About Me
 
-- 🎓 Estudiante de **Ingeniería de Sistemas**.
-- 📱 Interesado en el desarrollo de aplicaciones con **Flutter y Dart**.
-- 🐍 Trabajo académico y proyectos de aprendizaje con **Python**.
-- 🗄️ Practico el diseño de bases de datos y consultas con **SQL**.
-- 🤖 Exploro conceptos de **Machine Learning** y análisis de datos.
-- 🌱 Aprendo mediante proyectos, experimentación y mejora continua.
-- 💼 Abierto a oportunidades de **prácticas, posiciones junior y colaboración en proyectos**.
+- 🎓 Systems Engineering student.
+- 📱 Interested in mobile app development with **Flutter and Dart**.
+- 💻 Building programming skills through **Python** projects and coursework.
+- 🗄️ Practicing relational database design and queries with **SQL**.
+- 🤖 Exploring **Machine Learning** and data analysis.
+- 🌱 Learning by building projects, experimenting, and continuously improving.
+- 💼 Open to **internships, junior opportunities, and project collaborations**.
 
-## 🛠️ Tecnologías y herramientas
+## Technologies & Tools
 
 <div align="center">
 
@@ -39,52 +39,55 @@ Estoy construyendo mi portafolio, fortaleciendo mis habilidades y buscando oport
 
 </div>
 
-> Las tecnologías que aparecen aquí representan áreas de aprendizaje y práctica. Iré actualizando esta sección a medida que avance en cada una.
+> These technologies reflect areas I'm learning and practicing. I'll keep this section updated as I gain more experience.
 
-## 🚀 Proyectos destacados
+## Featured Projects
 
-Estoy organizando y documentando mis proyectos académicos y personales para que sea fácil entender qué problema resuelve cada uno, cómo funciona y cómo ejecutarlo.
+I'm organizing and documenting my academic and personal projects so visitors can quickly understand the problem each project addresses, how it works, and how to run it.
 
-### 📱 Aplicaciones móviles con Flutter
-Práctica de desarrollo de interfaces y aplicaciones móviles usando Dart y Flutter.
+### Mobile App Development — Flutter
+Practice building mobile interfaces and applications using Dart and Flutter.
 
-**Enfoque:** componentes de interfaz, navegación y estructura de una aplicación.
+**Focus:** UI components, navigation, and application structure.
 
-### 🗄️ Sistema de gestión de aulas
-Proyecto académico de bases de datos orientado a organizar información de aulas, edificios, usuarios, docentes, solicitudes y novedades.
+### Classroom Management System
+An academic database project designed to organize information about classrooms, buildings, users, instructors, requests, and issues.
 
-**Enfoque:** modelado relacional, SQL, consultas y relaciones entre tablas.
+**Focus:** relational data modeling, SQL queries, and relationships between tables.
 
-### 🐍 Python y análisis de datos
-Ejercicios y proyectos de aprendizaje para procesar datos, aplicar técnicas de análisis y presentar resultados.
+### Python & Data Analysis
+Learning projects focused on processing data, applying analysis techniques, and presenting results.
 
-**Enfoque:** programación, limpieza de datos y visualización.
+**Focus:** programming, data cleaning, and visualization.
 
-### 🤖 Machine Learning
-Exploración académica de conceptos de aprendizaje automático, funciones de activación y redes neuronales.
+### Machine Learning
+Academic exploration of machine learning concepts, activation functions, and neural networks.
 
-**Enfoque:** comprender los fundamentos y llevarlos a ejemplos prácticos.
+**Focus:** understanding core concepts and applying them to practical examples.
 
 <!--
-Cuando publiques cada proyecto, reemplaza la descripción anterior por enlaces reales.
-Ejemplo:
-[Ver repositorio](https://github.com/camilojunco29/NOMBRE-DEL-REPOSITORIO)
-Añade capturas, instrucciones de instalación, tecnologías y resultados.
+Once each project is published, replace the descriptions above with links to the actual repositories.
+Example:
+[View repository](https://github.com/camilojunco29/REPOSITORY-NAME)
+Add screenshots, setup instructions, technologies, and results.
 -->
 
-## 🎯 Objetivo profesional
+## Career Goals
 
-Busco seguir desarrollándome como ingeniero de sistemas, participar en proyectos reales y aportar curiosidad, responsabilidad y disposición para aprender. Me interesa especialmente trabajar en equipo, resolver problemas y convertir ideas en soluciones funcionales.
+I'm looking to grow as a systems engineer, contribute to real-world projects, and bring curiosity, responsibility, and a willingness to learn. I'm especially interested in teamwork, problem-solving, and turning ideas into functional solutions.
 
-## 📫 Contacto
+## Contact
 
 - **GitHub:** [@camilojunco29](https://github.com/camilojunco29)
-- **LinkedIn:** [Camilo Junco | Linkedin](https://www.linkedin.com/)
-- **Correo profesional:** Camilo Andres Junco Duque
+- **LinkedIn:** [Camilo Junco](https://www.linkedin.com/)
+- **Discord:** `its.me.cam`
+- **Instagram:** [@camilo.junc](https://www.instagram.com/camilo.junc/)
+- **Gmail:** Add your Gmail address here.
+
 ---
 
 <div align="center">
 
-*Gracias por visitar mi perfil. ¡Estoy construyendo, aprendiendo y mejorando un proyecto a la vez!*
+Thanks for visiting my profile. I'm building, learning, and improving one project at a time.
 
 </div>
